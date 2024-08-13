@@ -1,11 +1,8 @@
 /* Colors */
 :root {
-  --color-primary: #1a4d2e;
-  --color-secondary: #5bbcff;
-  --color-btn-hover: #2aa4fc;
-  /* --color-primary: #212529;
-  --color-secondary: #ffb03b;
-  --color-btn-hover: #ef6603; */
+  --color-primary: #333333;
+  --color-secondary: #f3c19b;
+  --color-btn-hover: #555555;
 }
 
 /*--------------------------------------------------------------
@@ -203,7 +200,7 @@ a:hover {
 }
 
 #hero h2 span {
-  color: #5bbcff;
+  color: #ffcaa2;
 }
 
 #hero p {
